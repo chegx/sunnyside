@@ -357,6 +357,7 @@ h5 {
 
   .caret {
     display: unset;
+    position: absolute;
     border-top: solid transparent 25px;
     border-bottom: solid white 25px;
     border-right: solid white 25px;
